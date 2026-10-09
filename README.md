@@ -103,7 +103,6 @@ The interactive dashboard provides:
 - External CSV upload and analysis
 - Downloadable batch analysis results
 
-*Dashboard screenshots will be added here.*
 
 **Development Note:** ChatGPT was used as a development assistant for Streamlit interface implementation, layout organization, and troubleshooting. The project's primary technical focus is data preprocessing, machine learning, and cybersecurity analysis.
 
