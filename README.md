@@ -1,7 +1,5 @@
 # CyberThreat-LLM
 
-# CyberThreat-LLM
-
 ### AI-Powered Network Threat Detection and Analysis
 
 CyberThreat-LLM is a cybersecurity project focused on analyzing network traffic and detecting potentially malicious activity using machine learning.
