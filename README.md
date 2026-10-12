@@ -68,7 +68,7 @@ Model performance is examined through classification metrics, prediction distrib
 
 Evaluation metrics include **Accuracy, Precision, Recall, F1-score**, and **Confusion Matrix**.
 
-*Confusion matrix visualization will be added here.*
+![CICIDS2018 Evaluation](evaluation.png)
 
 ### External Dataset Evaluation — CICIDS2018
 
@@ -82,13 +82,13 @@ A preliminary evaluation was conducted using 1,000 traffic records: 500 Benign a
 
 **Evaluation:** The model correctly recognized most benign samples but showed limited ability to flag the unseen Infilteration attack class. These preliminary results highlight challenges in generalizing across datasets.
 
-*Prediction distribution chart will be added here.*
+
 
 ### SHAP Explainability
 
 SHAP is used to identify the network flow features that influence individual model predictions.
 
-*SHAP feature importance visualization will be added here.*
+![SHAP Explainability](shap.png)
 
 ---
 
